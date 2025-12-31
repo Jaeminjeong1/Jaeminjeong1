@@ -2,7 +2,7 @@
   Jeong Jaemin Profile
 
   ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Nice+to+meet+you!;I+want+to+be+someone+who+creates+value+through+development+😊;&font=Fira%20Code&center=true&width=800&height=50&duration=4000&pause=1000)
-
+</div>
 
 ### 🙌 Who am I? 🙌
 
