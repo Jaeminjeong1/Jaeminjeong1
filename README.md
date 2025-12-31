@@ -17,7 +17,7 @@
 
 ### 🏫 Education
 
-Hanyang University. Information System (2021.03 ~)
+Hanyang University. Information System (2021.03 ~ )
 
 ---
 
