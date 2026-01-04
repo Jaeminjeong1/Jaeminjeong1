@@ -17,7 +17,7 @@
 
 ### 🏫 Education
 
-Hanyang University. Information System (2021.03 ~ )
+한양대학교 정보시스템학과 (2021.03 ~ )
 
 ---
 
