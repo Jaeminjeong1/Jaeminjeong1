@@ -18,13 +18,9 @@
 `Predictability`
 
 ---
-### 🏫 Education
+### 🏫 Activity
 
 한양대학교 정보시스템학과 (2021.03 ~ )
-
----
-### Activity
-
 DF(데이터분석 연합동아리) (2025.01 ~ 2025.09) 
 
 ---
